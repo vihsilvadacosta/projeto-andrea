@@ -22,7 +22,7 @@ Através da biblioteca `Isolation Forest`, identificamos comportamentos suspeito
 
 ```bash
 git clone https://github.com/seu-usuario/projeto-andrea.git
-cd projeto-andrea
+cd seu-projeto
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
