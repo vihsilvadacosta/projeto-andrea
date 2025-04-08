@@ -21,8 +21,8 @@ Através da biblioteca `Isolation Forest`, identificamos comportamentos suspeito
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/seu-usuario/projeto-andrea.git
+cd projeto-andrea
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
@@ -58,6 +58,6 @@ python main.py
 
 ## 👨‍💻 Autores
 
-- [Seu Nome](https://github.com/seu-usuario)
+- [Vitória e Suelen]
 
-Sinta-se à vontade para contribuir com melhorias ou sugestões!
+
